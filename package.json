@@ -1,0 +1,23 @@
+{
+  "name": "women",
+  "version": "1.0.0",
+  "description": "A project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumedha6/Project.git"
+  },
+  "author": "Sumedha Khuran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumedha6/Project/issues"
+  },
+  "homepage": "https://github.com/sumedha6/Project#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-stormpath": "^3.2.0"
+  }
+}
